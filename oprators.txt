@@ -1,0 +1,12 @@
+>=
+<=
+sep=__
+		
+print("troll"*3)
+print("trolll"+"greek")
+print("hello","world",sep="_")
+
+
+
+  
+	
